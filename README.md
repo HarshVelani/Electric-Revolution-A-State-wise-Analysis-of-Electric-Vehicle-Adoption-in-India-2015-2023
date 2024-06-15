@@ -11,12 +11,13 @@
 
 ### Key Findings:
 1. Petrol vehicle registration dominated over others every year.
-2. Electric vehicle registration drastically increased from the year 2021 with 135k in 2020, 340k in 2021 and 1M in 2022.
-3. CNG vehicle registration also increased with good pace from 2021 onwards.
-4. Line chart showed decline in total vehicle registration due to COVID-19 pandemic, with 25M in 2018 to  18.5M in 2020.
-5. Top five states with vehicle registrations were Uttar Pradesh, Maharshtra,Tamil Nadu, Gujarat and Karnataka.
-6. Top five states with electric vehicle registrations were Uttar Pradesh, Maharashtra, Karnataka, Delhi and Rajasthan.
-7. Overall vehicle registration increased every year from the previous year.
+2. Used Geopandas library to read shape file and visualize the data on map of India.
+3. Electric vehicle registration drastically increased from the year 2021 with 135k in 2020, 340k in 2021 and 1M in 2022.
+4. CNG vehicle registration also increased with good pace from 2021 onwards.
+5. Line chart showed decline in total vehicle registration due to COVID-19 pandemic, with 25M in 2018 to  18.5M in 2020.
+6. Top five states with vehicle registrations were Uttar Pradesh, Maharshtra,Tamil Nadu, Gujarat and Karnataka.
+7. Top five states with electric vehicle registrations were Uttar Pradesh, Maharashtra, Karnataka, Delhi and Rajasthan.
+8. Overall vehicle registration increased every year from the previous year.
 
 ### Conclusion:
   Based on this data, it can be inferred that electric vehicles will dominate over traditional vehicles in the coming years, although this transition will take time. Several factors contribute to this shift, including lower cost per kilometer, extended range with a full charge exceeding 400 kilometers, rising fuel prices, and government policies promoting the adoption of electric vehicles.
